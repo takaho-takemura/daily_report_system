@@ -2,7 +2,7 @@
 
 body {
     color: #333333;
-    font-family: "Hiragino Kaku Gothic Pro", Meiryo, "MS PGothic",Helvetica,Arial,sans-serif;
+    font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
 }
 
 #header {
@@ -32,12 +32,12 @@ h2 {
 
 li {
     margin-top: 10px;
-    matgin-bottom: 10px;
+    margin-bottom: 10px;
 }
 
 p {
-    margin-top: 15px:
-    maragin-bottom: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
 a {
@@ -50,8 +50,8 @@ table, tr, th, td {
 }
 
 table {
-    width: 100%
-    table-layout: fixde;
+    width: 100%;
+    table-layout: fixed;
 }
 
 th {
@@ -91,3 +91,23 @@ button {
     color: #721c24;
     background-color: #f8d7da;
 }
+table#employee_list th {
+    width: 30%;
+    padding: 10px 2%;
+}
+table#employee_list td {
+    width: 29%;
+    padding: 10px 2%;
+}
+tr.row1 {
+    background-color: #f2f2f2;
+}
+tr.row0 {
+    background-color: #ffffff;
+}
+
+
+
+
+
+
